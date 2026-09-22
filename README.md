@@ -124,8 +124,8 @@ Full production website for a **Revenue Cycle Management healthcare-services com
 
 ## Certifications
 
-- **HIPAA Privacy Rule and Its Impacts on Research** — ProProfs · **100 / 100** · Sep 2026
-- **Google Analytics 4 Certification** — Google Skillshop · *in progress*
+- **HIPAA Privacy Rule and Its Impacts on Research** — ProProfs · **100 / 100** · Sep 2026 · Cert ID 349440669
+- **Google Analytics Certification** — Google Skillshop · **Certified · Sep 2026 – Sep 2027** · [View credential](https://skillshop.credential.net/d474635d-b006-4bc7-bc6a-0b58c2f3cffc) · Cert ID 194601050
 - **CAHIMS (Certified Associate in Healthcare Information & Management Systems)** — HIMSS · *planned*
 - **HubSpot SEO Certification** — HubSpot Academy · *planned*
 
