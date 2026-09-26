@@ -1,114 +1,111 @@
 <h1 align="center">Hi, I'm Chiragbhai Nayi</h1>
 
 <p align="center">
-  <b>Health Informatics · AI-Assisted Web Development · Automation Agents</b><br/>
-  Incoming M.S. in Health Informatics @ Benedictine University · Open to Day-1 CPT
+  <b>Health Informatics Analyst · EHR Support & Implementation · Healthcare Data Analytics</b><br/>
+  Epic & Oracle Health (Cerner) · M.S. Health Informatics in progress @ Benedictine University
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragbhai-nayi-610625281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:chiragn735@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://rcmprosolutions.com"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2ecc71?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Day--1%20CPT-ffc83d?style=for-the-badge&labelColor=0f172a" alt="Day-1 CPT"/>
+  <img src="https://img.shields.io/badge/Epic-AC0034?style=for-the-badge" alt="Epic"/>
+  <img src="https://img.shields.io/badge/Oracle%20Health-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Health"/>
+  <img src="https://img.shields.io/badge/HIPAA%20Certified-D8232A?style=for-the-badge" alt="HIPAA Certified"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm a technologist bridging **AI, web systems, and healthcare data**.
+I'm a **Health Informatics Analyst** with **1.5+ years of EHR support and implementation experience** at Tegria, a global healthcare consulting firm, supporting hospital clients on **Epic** and **Oracle Health (Cerner)**.
 
-Over the last three years I have built and shipped production web systems end-to-end using Claude AI as my primary development partner — including a full **Revenue Cycle Management (RCM) healthcare-services platform** at [rcmprosolutions.com](https://rcmprosolutions.com), where I designed the site, installed the complete analytics stack, added JSON-LD structured data, and improved mobile Performance from **59 → 96**.
+My day-to-day covers tier-1/tier-2 application support, EHR upgrades and go-lives, clinical workflow analysis, requirements gathering, integrated testing and UAT, and data migration validation — all inside HIPAA-regulated environments where PHI handling is non-negotiable.
 
-Alongside client work, I design and deploy **autonomous AI agents** that handle recurring daily and weekly workflows — site monitoring, content refreshes, SEO checks, and reporting.
+I resolve **30+ support tickets and defects weekly in JIRA at 95%+ SLA compliance** with full root-cause documentation, and I validate migrated patient, registration, and billing data against source systems ahead of go-lives to protect data integrity.
 
-I am now heading into a **Master of Science in Health Informatics** at Benedictine University to combine what I already do with formal training in Electronic Health Records, Healthcare Information Systems, and Data Analytics.
+On the analytics side I use **SQL, Python (pandas), Power BI, and Excel** for healthcare data quality, reconciliation, and reporting. I hold an **M.S. in Computer Science** and am completing an **M.S. in Health Informatics** at Benedictine University.
 
-**Actively looking for:** Day-1 CPT internships or entry-level roles in Health Informatics, EHR / Epic, Healthcare Data Analytics, RCM technology, or AI-in-healthcare — remote or in Chicago, Wisconsin, Iowa, or Indiana.
+**Open to:** EHR Analyst · Clinical Informatics Analyst · Healthcare Data Analyst · Application Analyst · Revenue Cycle Analyst — onsite, hybrid, or remote, with relocation anywhere in the United States.
 
 ---
 
-## Tech Stack
+## Core Competencies
 
-**AI & Automation**
+**EHR & Healthcare Systems**
 <p>
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Autonomous%20Agents-6366f1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Workflow%20Automation-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Epic-AC0034?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Oracle%20Health%20(Cerner)-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tier--1%20%2F%20Tier--2%20Support-0f766e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EHR%20Upgrades%20%26%20Go--Live-14b8a6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Migration%20Validation-0369a1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Revenue%20Cycle%20Management-4c1d95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HIPAA%20%2F%20PHI%20Handling-D8232A?style=flat-square"/>
 </p>
 
-**Web Development**
+**Implementation & Analysis**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-6366f1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clinical%20Workflow%20Analysis-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Integrated%20Testing%20%26%20UAT-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Root--Cause%20Troubleshooting-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SOPs%20%26%20Knowledge%20Base-475569?style=flat-square"/>
 </p>
 
-**Analytics & SEO**
+**Data & Reporting**
 <p>
-  <img src="https://img.shields.io/badge/GA4-F9AB00?style=flat-square&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=flat-square&logo=googletagmanager&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Clarity-2ea0ff?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON--LD%20Schema-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SEO-1F1F1F?style=flat-square&logo=google&logoColor=white"/>
-</p>
-
-**Data & Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20(pandas)-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Validation-0d9488?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Dictionaries-334155?style=flat-square"/>
 </p>
 
-**Healthcare Domain**
+**Tools**
 <p>
-  <img src="https://img.shields.io/badge/HIPAA-D8232A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Revenue%20Cycle%20Management-14b8a6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/EHR-0f766e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Public%20Health%20Analytics-4c1d95?style=flat-square"/>
-</p>
-
-**Tools & Platforms**
-<p>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn%20Marketing-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-F9AB00?style=flat-square&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
 </p>
 
 ---
 
-## Featured Project
+## Projects
 
-### RCM Pro Solutions ([rcmprosolutions.com](https://rcmprosolutions.com))
+### Healthcare Data Quality & Validation Analysis — 2026
 
-Full production website for a **Revenue Cycle Management healthcare-services company**. Designed, built, and shipped end-to-end using AI-assisted development.
+Profiled and validated a synthetic EHR-style patient dataset (**Synthea**: demographics, encounters, conditions) using **Python (pandas)** and **Excel** — screening for duplicates, missing values, and out-of-range entries. Defined field-level validation rules and a **data dictionary** modelled on healthcare data-quality SOPs.
 
-- **Stack:** HTML, Tailwind, Lucide, JavaScript, PHP, `.htaccess` clean-URL routing
-- **Structured data:** Sitewide JSON-LD schema for organization, services, and cheat-sheet resource articles
-- **Analytics:** Google Tag Manager, Google Analytics 4, Microsoft Clarity, and Google Search Console — verified, sitemap submitted, full custom event tracking
-- **Lead capture:** Consultation and contact forms via PHP → email with automated customer auto-reply
-- **Email marketing:** Mailchimp newsletter integration (US7 data center)
-- **Performance:** Mobile score improved from **59 → 96** through CDN-to-local asset migration, deferred scripts, image preload, and cache-lifetime tuning
-- **Brand:** LinkedIn Company Page setup (American Elite RCM) and print-ready tri-fold service brochure
+### Public Health Data Analysis — 2026
+
+Analysed **county-level public health indicator data (CDC public datasets)** to identify trends and outliers, building summary tables and visual trend reports in Excel.
+
+### Clinical Workflow Documentation & EHR Readiness Case Study — 2026
+
+Documented the current-state workflow of a multi-step service intake and fulfilment process (intake → triage → fulfilment → follow-up), identified failure points and rework loops, and proposed a **system-supported future-state workflow** with role-based user steps and data-capture points.
 
 ---
 
 ## Experience
 
-| Role | Company | Dates | Highlight |
-|---|---|---|---|
-| AI-Assisted Web Developer & Automation Specialist | **Newagez Technologies LLC** | Oct 2024 – Aug 2026 | Flagship RCM Pro Solutions build + autonomous AI agents |
-| AI-Assisted Web Developer (CPT + Post-Completion OPT) | **Software Concepts LLC** | May 2023 – Sep 2024 | In-house web + AI-assisted development, WordPress fixes |
-| Associate — Customer Support | **Tech Mahindra** | Jan 2019 – Feb 2021 | Time-tracking system, 15% ticket response improvement |
+| Role | Organization | Dates |
+|---|---|---|
+| **EHR Support & Implementation Analyst** | Tegria, USA | May 2025 – Present |
+| **EHR Support Analyst (Internship)** | Tegria, USA | Oct 2024 – Apr 2025 |
+| **AI-Assisted Web Developer** | Software Concepts LLC — Carrollton, TX | May 2023 – Sep 2024 |
+| **Associate — Customer Support** | Tech Mahindra — Ahmedabad, India | Jan 2019 – Feb 2021 |
+| **Data Entry Operator / QA Tester** | National Food Security Act (NFSA) Program — Gujarat, India | Jan 2017 – Jan 2018 |
+
+**Selected highlights**
+
+- Tier-1/tier-2 Epic and Oracle Health support for hospital clients — user access, security roles, configuration, and workflow issues resolved within SLA while safeguarding PHI
+- End-to-end implementation and upgrade work streams: requirements gathering with clinical and revenue-cycle stakeholders → workflow analysis → configuration validation → integrated testing and UAT → go-live support
+- **30+ tickets and defects weekly in JIRA at 95%+ SLA compliance**, with root-cause documentation that reduced reopened tickets
+- Knowledge-base articles, SOPs, and quick-reference guides adopted by support staff and clinical users, cutting recurring ticket volume and new-analyst onboarding time
+- Selected for conversion from internship to full-time EHR Support & Implementation Analyst based on performance
 
 ---
 
@@ -116,28 +113,30 @@ Full production website for a **Revenue Cycle Management healthcare-services com
 
 | Degree | Institution | Status |
 |---|---|---|
-| **M.S. in Health Informatics** | Benedictine University (Lisle, IL) | Incoming — coursework in EHR, HIS, Programming for Analytics, Data Visualization, Databases & Data Warehousing |
-| **M.S. in Computer Science** | Monroe University (New Rochelle, NY) | Completed August 2023 |
-| **B.S. in Chemistry** | Gujarat University (Ahmedabad, India) | Granted April 2018 · GPA 3.2 |
+| **M.S. in Health Informatics** | Benedictine University — Lisle, IL | **In progress · Expected 2028** |
+| **M.S. in Computer Science** | Monroe College — New Rochelle, NY | Aug 2023 |
+| **B.S. in Chemistry** | Gujarat University — India | Apr 2018 |
+
+**M.S. Health Informatics coursework:** Introduction to Health Informatics · Healthcare Information Systems · Electronic Health Records · Programming for Analytics (Python / R / SAS) · Business Analytics I & II (Predictive and Prescriptive) · Databases and Data Warehousing · Data Visualization · Health Systems, Law and Policy
 
 ---
 
 ## Certifications
 
-- **HIPAA Privacy Rule and Its Impacts on Research** — ProProfs · **100 / 100** · Sep 2026 · Cert ID 349440669
-- **Google Analytics Certification** — Google Skillshop · **Certified · Sep 2026 – Sep 2027** · [View credential](https://skillshop.credential.net/d474635d-b006-4bc7-bc6a-0b58c2f3cffc) · Cert ID 194601050
-- **CAHIMS (Certified Associate in Healthcare Information & Management Systems)** — HIMSS · *planned*
-- **HubSpot SEO Certification** — HubSpot Academy · *planned*
+- **HIPAA Compliance Training** — Sep 2026 · Cert ID 349440669
+- **Google Analytics Certification** — Google Skillshop · Sep 2026 – Sep 2027 · [View credential](https://skillshop.credential.net/d474635d-b006-4bc7-bc6a-0b58c2f3cffc) · Cert ID 194601050
+- **CAHIMS** — HIMSS · *planned*
+- **freeCodeCamp Relational Database (SQL)** — *in progress*
 
 ---
 
-## What I'm Learning Right Now
+## Currently Learning
 
-- **SQL** — Mode Analytics tutorial + healthcare data practice sets
-- **Python & Pandas** — Kaggle mini-courses, focus on healthcare data manipulation
-- **Tableau Public** — building healthcare dashboards
-- **HL7 / FHIR** — Simplifier tutorials and Redox integration guides
-- **Epic terminology** — Chronicles, Caboodle, Clarity, Hyperspace fundamentals
+- **SQL** — freeCodeCamp Relational Database certification + healthcare data practice sets
+- **Python & pandas** — healthcare data profiling and validation workflows
+- **Power BI** — clinical and revenue-cycle dashboards
+- **HL7 / FHIR** — interoperability standards and integration patterns
+- **Epic certification tracks** — Chronicles, Caboodle, Clarity, Hyperspace fundamentals
 
 ---
 
@@ -146,12 +145,10 @@ Full production website for a **Revenue Cycle Management healthcare-services com
 - **Email:** chiragn735@gmail.com
 - **Phone:** 929-329-8161
 - **LinkedIn:** [linkedin.com/in/chiragbhai-nayi-610625281](https://www.linkedin.com/in/chiragbhai-nayi-610625281/)
-- **Portfolio:** [rcmprosolutions.com](https://rcmprosolutions.com)
 - **Location:** Janesville, WI · Open to relocation anywhere in the United States
 
 ---
 
 <p align="center">
-  <i>Open to Day-1 CPT internships and entry-level roles in Health Informatics, EHR / Epic, Healthcare Data Analytics, RCM, and AI-in-healthcare. Immediately available.</i>
+  <i>Open to EHR Analyst, Clinical Informatics Analyst, Healthcare Data Analyst, Application Analyst, and Revenue Cycle Analyst roles — onsite, hybrid, or remote.</i>
 </p>
-
