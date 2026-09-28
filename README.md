@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chiragbhai-nayi-610625281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chiragn735@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:chiragndha28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Epic-AC0034?style=for-the-badge" alt="Epic"/>
   <img src="https://img.shields.io/badge/Oracle%20Health-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Health"/>
   <img src="https://img.shields.io/badge/HIPAA%20Certified-D8232A?style=for-the-badge" alt="HIPAA Certified"/>
@@ -142,7 +142,7 @@ Documented the current-state workflow of a multi-step service intake and fulfilm
 
 ## Get in Touch
 
-- **Email:** chiragn735@gmail.com
+- **Email:** chiragndha28@gmail.com
 - **Phone:** 929-329-8161
 - **LinkedIn:** [linkedin.com/in/chiragbhai-nayi-610625281](https://www.linkedin.com/in/chiragbhai-nayi-610625281/)
 - **Location:** Janesville, WI · Open to relocation anywhere in the United States
